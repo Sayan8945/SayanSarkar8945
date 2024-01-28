@@ -138,7 +138,7 @@ nav a {
 
 @media (max-width: 500px) {
     nav img{
-        width: 130px;
+        width: 160px;
         margin: 2px;
     }
     nav a {
