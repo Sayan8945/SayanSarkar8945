@@ -138,12 +138,12 @@ nav a {
 
 @media (max-width: 500px) {
     nav img{
-        width: 110px;
+        width: 130px;
         margin: 2px;
     }
     nav a {
         position: relative;
-        left: -130px;
+        left: -110px;
         margin-right: 0px;
     }
     nav button {
